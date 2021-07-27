@@ -1,5 +1,5 @@
-Ce projet consiste a prédir la souscription clientèle dans le secteur bancaire on utilisant les réseaux de neurone
-qui sont construit en utilisat les bibliothéques: Tensorflow et Keras.
+This project consists in predicting customer subscription in the banking sector using neural networks 
+which are built using the libraries: Tensorflow and Keras.
 
 
-avec une comparaison avec le modèle de regression logistique
+with a comparison with the logistic regression model
